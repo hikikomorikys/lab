@@ -1,0 +1,3 @@
+/Users/hikikomori/Downloads/Информатика/Лабораторная работа №4 Вариант 1/build/CMakeFiles/library_app.dir
+/Users/hikikomori/Downloads/Информатика/Лабораторная работа №4 Вариант 1/build/CMakeFiles/edit_cache.dir
+/Users/hikikomori/Downloads/Информатика/Лабораторная работа №4 Вариант 1/build/CMakeFiles/rebuild_cache.dir
